@@ -1,0 +1,1 @@
+Enhanced due diligence is triggered when PEP match, sanctions hit, or high-risk geography is detected.

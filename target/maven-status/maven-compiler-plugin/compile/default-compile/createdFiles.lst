@@ -1,0 +1,5 @@
+com\example\federatedrag\service\FederatedQueryService.class
+com\example\federatedrag\controller\AskController.class
+com\example\federatedrag\FederatedRagApplication.class
+com\example\federatedrag\service\IngestionService.class
+com\example\federatedrag\service\RoutingService.class
